@@ -43,4 +43,3 @@ for i in range(0, 1000):
 
 mid_price = mid_price / 9992
 
-
